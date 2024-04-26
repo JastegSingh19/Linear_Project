@@ -40,6 +40,12 @@ The code then solves the linear programming model using the simplex algorithm an
 
 In conclusion, the Student Project Allocation code provides an efficient and fair way to allocate projects to students based on their preferences while considering project capacities and supervisor loads. It can be easily adapted to different datasets and used in various educational institutions.
 
+## Documentation
+
+For more details about the project, we would recommend you to go through our detailed documentation, which encapsulates the complete project.
+
+Link: https://docs.google.com/document/d/10QS7CP1j3ud2X-GVV00Hz2p_587gL40ti8yCx-aHsJI/edit
+
 ### Submitted by:
 
 > Jasteg Singh - 21CS2008
